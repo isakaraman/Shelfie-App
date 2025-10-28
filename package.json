@@ -9,7 +9,8 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "expo": "~54.0.14",
+    "@expo/vector-icons": "^15.0.3",
+    "expo": "^54.0.20",
     "expo-constants": "~18.0.9",
     "expo-linking": "~8.0.8",
     "expo-router": "~6.0.13",
